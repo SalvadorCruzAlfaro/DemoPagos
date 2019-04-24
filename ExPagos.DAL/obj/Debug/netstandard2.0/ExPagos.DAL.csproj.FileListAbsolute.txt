@@ -1,0 +1,17 @@
+C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DAL\bin\Debug\netstandard2.0\ExPagos.DAL.deps.json
+C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DAL\bin\Debug\netstandard2.0\ExPagos.DAL.dll
+C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DAL\bin\Debug\netstandard2.0\ExPagos.DAL.pdb
+C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.csprojAssemblyReference.cache
+C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.csproj.CoreCompileInputs.cache
+C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.AssemblyInfoInputs.cache
+C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.AssemblyInfo.cs
+C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.dll
+C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.pdb
+C:\Chava\DemosXamarin\Examen\ExPagos.DAL\bin\Debug\netstandard2.0\ExPagos.DAL.deps.json
+C:\Chava\DemosXamarin\Examen\ExPagos.DAL\bin\Debug\netstandard2.0\ExPagos.DAL.dll
+C:\Chava\DemosXamarin\Examen\ExPagos.DAL\bin\Debug\netstandard2.0\ExPagos.DAL.pdb
+C:\Chava\DemosXamarin\Examen\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.csproj.CoreCompileInputs.cache
+C:\Chava\DemosXamarin\Examen\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.AssemblyInfoInputs.cache
+C:\Chava\DemosXamarin\Examen\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.AssemblyInfo.cs
+C:\Chava\DemosXamarin\Examen\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.dll
+C:\Chava\DemosXamarin\Examen\ExPagos.DAL\obj\Debug\netstandard2.0\ExPagos.DAL.pdb

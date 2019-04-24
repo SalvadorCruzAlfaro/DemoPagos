@@ -1,0 +1,15 @@
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\bin\Debug\netstandard2.0\Expagos.deps.json
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\bin\Debug\netstandard2.0\Expagos.dll
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\bin\Debug\netstandard2.0\Expagos.pdb
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\Expagos.csproj.CoreCompileInputs.cache
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\Expagos.AssemblyInfoInputs.cache
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\Expagos.AssemblyInfo.cs
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\Expagos.dll
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Debug\netstandard2.0\Expagos.pdb
