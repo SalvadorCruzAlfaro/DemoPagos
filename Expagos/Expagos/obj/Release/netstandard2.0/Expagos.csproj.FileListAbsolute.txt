@@ -8,7 +8,6 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Release\netstandard2.0\App.xaml
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Release\netstandard2.0\AppShell.xaml.g.cs
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Release\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Release\netstandard2.0\Views\ComentarioPAge.xaml.g.cs
-C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Release\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Release\netstandard2.0\Views\PagosAutorizadosPage.xaml.g.cs
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Release\netstandard2.0\Views\PagosNoAutorizadosPage.xaml.g.cs
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos\obj\Release\netstandard2.0\Views\PagosSinRevisarPage.xaml.g.cs

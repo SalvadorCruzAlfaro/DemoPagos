@@ -225,6 +225,3 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_CopyInt
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_CopyMdbFiles.stamp
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_CopyPdbFiles.stamp
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
-C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\machine.config
-C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_CompileToDalvik.stamp
-C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp

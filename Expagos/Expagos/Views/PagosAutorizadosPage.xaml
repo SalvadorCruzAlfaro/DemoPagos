@@ -12,6 +12,12 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <StackLayout>
+        <StackLayout.Margin>
+            <OnPlatform x:TypeArguments="Thickness"
+                        iOS="10,70,10,0"
+                        Android="10,10,10,0">
+            </OnPlatform>
+        </StackLayout.Margin>
         <ListView x:Name="ItemsListView"
                 ItemsSource="{Binding Pagos}"
                 VerticalOptions="FillAndExpand"

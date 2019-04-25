@@ -1,7 +1,6 @@
 C:\Chava\DemosXamarin\Examen\ExPagos.Services\bin\Debug\netstandard2.0\ExPagos.Services.deps.json
 C:\Chava\DemosXamarin\Examen\ExPagos.Services\bin\Debug\netstandard2.0\ExPagos.Services.dll
 C:\Chava\DemosXamarin\Examen\ExPagos.Services\bin\Debug\netstandard2.0\ExPagos.Services.pdb
-C:\Chava\DemosXamarin\Examen\ExPagos.Services\obj\Debug\netstandard2.0\ExPagos.Services.csprojAssemblyReference.cache
 C:\Chava\DemosXamarin\Examen\ExPagos.Services\obj\Debug\netstandard2.0\ExPagos.Services.csproj.CoreCompileInputs.cache
 C:\Chava\DemosXamarin\Examen\ExPagos.Services\obj\Debug\netstandard2.0\ExPagos.Services.AssemblyInfoInputs.cache
 C:\Chava\DemosXamarin\Examen\ExPagos.Services\obj\Debug\netstandard2.0\ExPagos.Services.AssemblyInfo.cs

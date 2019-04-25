@@ -10,6 +10,7 @@ C:\Chava\DemosXamarin\ExPagos\ExPagos\ExPagos.DTOs\obj\Debug\netstandard2.0\ExPa
 C:\Chava\DemosXamarin\Examen\ExPagos.DTOs\bin\Debug\netstandard2.0\ExPagos.DTOs.deps.json
 C:\Chava\DemosXamarin\Examen\ExPagos.DTOs\bin\Debug\netstandard2.0\ExPagos.DTOs.dll
 C:\Chava\DemosXamarin\Examen\ExPagos.DTOs\bin\Debug\netstandard2.0\ExPagos.DTOs.pdb
+C:\Chava\DemosXamarin\Examen\ExPagos.DTOs\obj\Debug\netstandard2.0\ExPagos.DTOs.csprojAssemblyReference.cache
 C:\Chava\DemosXamarin\Examen\ExPagos.DTOs\obj\Debug\netstandard2.0\ExPagos.DTOs.csproj.CoreCompileInputs.cache
 C:\Chava\DemosXamarin\Examen\ExPagos.DTOs\obj\Debug\netstandard2.0\ExPagos.DTOs.AssemblyInfoInputs.cache
 C:\Chava\DemosXamarin\Examen\ExPagos.DTOs\obj\Debug\netstandard2.0\ExPagos.DTOs.AssemblyInfo.cs

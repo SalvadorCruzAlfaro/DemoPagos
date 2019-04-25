@@ -5,6 +5,12 @@
              Title="Comentario de ">
     <ContentPage.Content>
         <StackLayout>
+            <StackLayout.Margin>
+                <OnPlatform x:TypeArguments="Thickness"
+                            iOS="10,70,10,0"
+                            Android="10,10,10,0">
+                </OnPlatform>
+            </StackLayout.Margin>
             <Label Text="Inserta un comentario"/>
             <Editor Text="{Binding Comentario, Mode=TwoWay}"/>
             <Button Text="Aceptar" Clicked="Aceptar_OnClicked" Margin="1" BackgroundColor="#2196F3" TextColor="White"/>
