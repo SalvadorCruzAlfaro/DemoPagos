@@ -1,0 +1,16 @@
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\bin\Release\netstandard2.0\ExPagos.BIZ.deps.json
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\bin\Release\netstandard2.0\ExPagos.BIZ.dll
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\bin\Release\netstandard2.0\ExPagos.BIZ.pdb
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\bin\Release\netstandard2.0\ExPagos.Services.dll
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\bin\Release\netstandard2.0\ExPagos.Services.pdb
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\obj\Release\netstandard2.0\ExPagos.BIZ.csprojAssemblyReference.cache
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\obj\Release\netstandard2.0\ExPagos.BIZ.csproj.CoreCompileInputs.cache
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\obj\Release\netstandard2.0\ExPagos.BIZ.AssemblyInfoInputs.cache
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\obj\Release\netstandard2.0\ExPagos.BIZ.AssemblyInfo.cs
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\obj\Release\netstandard2.0\ExPagos.BIZ.csproj.CopyComplete
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\obj\Release\netstandard2.0\ExPagos.BIZ.dll
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\obj\Release\netstandard2.0\ExPagos.BIZ.pdb
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\bin\Release\netstandard2.0\ExPagos.DAL.dll
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\bin\Release\netstandard2.0\ExPagos.DTOs.dll
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\bin\Release\netstandard2.0\ExPagos.DAL.pdb
+C:\Chava\DemosXamarin\Examen\ExPagos.BIZ\bin\Release\netstandard2.0\ExPagos.DTOs.pdb

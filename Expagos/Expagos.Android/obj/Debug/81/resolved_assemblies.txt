@@ -4,6 +4,7 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\Java.Interop.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\Mono.Android.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\mscorlib.dll
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\Newtonsoft.Json.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\System.Core.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\System.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\System.Numerics.dll
@@ -45,4 +46,5 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\System.Web.Services.dll
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\ExPagos.DTOs.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\Mono.Security.dll

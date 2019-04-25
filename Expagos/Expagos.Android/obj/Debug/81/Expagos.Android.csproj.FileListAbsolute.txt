@@ -23,10 +23,12 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\System.Net.Http.p
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\System.Runtime.Serialization.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\System.ServiceModel.Internals.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\System.Web.Services.pdb
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\ExPagos.DTOs.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\Mono.Security.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\Expagos.dll.mdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\Xamarin.Essentials.dll.mdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\Expagos.dll
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\ExPagos.DTOs.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\bin\Debug\Expagos.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\build.props
@@ -70,6 +72,7 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\FormsV
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\Java.Interop.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\Mono.Android.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\mscorlib.dll
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\Newtonsoft.Json.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System.Core.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System.Numerics.dll
@@ -111,6 +114,7 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System.Web.Services.dll
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\ExPagos.DTOs.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\Mono.Security.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\Expagos.Android.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
@@ -134,6 +138,7 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\ExPagos.DTOs.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\Mono.Security.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\Expagos.dll.mdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\linksrc\Xamarin.Essentials.dll.mdb
@@ -142,6 +147,8 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\Expagos.Android.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\Expagos.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\Expagos.dll.mdb
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\ExPagos.DTOs.dll
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\ExPagos.DTOs.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\Java.Interop.dll
@@ -152,6 +159,7 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\mscorlib.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\mscorlib.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\netstandard.dll
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\Newtonsoft.Json.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\System.Core.dll
@@ -217,3 +225,6 @@ C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_CopyInt
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_CopyMdbFiles.stamp
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_CopyPdbFiles.stamp
 C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\android\assets\machine.config
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_CompileToDalvik.stamp
+C:\Chava\DemosXamarin\Examen\Expagos\Expagos.Android\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp

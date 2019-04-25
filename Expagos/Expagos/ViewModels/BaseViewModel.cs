@@ -12,7 +12,7 @@ namespace Expagos.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>() ?? new MockDataStore();
+        public IDataStore DataStore => DependencyService.Get<IDataStore>();
 
         bool isBusy = false;
         public bool IsBusy

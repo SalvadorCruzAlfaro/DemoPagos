@@ -70,10 +70,16 @@
 
     <!-- Your Pages -->
     <ShellItem>
-        <ShellSection Title="Browse" Icon="tab_feed.png">
-            <ShellContent ContentTemplate="{DataTemplate local:ItemsPage}" />
+        <ShellSection Title="Sin Revisar" Icon="tab_feed.png">
+            <ShellContent ContentTemplate="{DataTemplate local:PagosSinRevisarPage}" />
         </ShellSection>
-        <ShellSection Title="About" Icon="tab_about.png">
+        <ShellSection Title="No Autorizados" Icon="tab_feed.png">
+            <ShellContent ContentTemplate="{DataTemplate local:PagosNoAutorizadosPage}" />
+        </ShellSection>
+        <ShellSection Title="Autorizados" Icon="tab_feed.png">
+            <ShellContent ContentTemplate="{DataTemplate local:PagosAutorizadosPage}" />
+        </ShellSection>
+        <ShellSection Title="Acerca de" Icon="tab_about.png">
             <ShellContent ContentTemplate="{DataTemplate local:AboutPage}" />
         </ShellSection>
     </ShellItem>

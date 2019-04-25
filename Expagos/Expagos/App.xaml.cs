@@ -8,12 +8,12 @@ namespace Expagos
 {
     public partial class App : Application
     {
-
+        public static string AzureBackendUrl = "http://pruebasca.azurewebsites.net";
         public App()
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
+            DependencyService.Register<ApiDataStore>();
             MainPage = new AppShell();
         }
 

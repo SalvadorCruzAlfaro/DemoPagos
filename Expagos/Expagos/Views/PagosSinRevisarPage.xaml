@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Expagos.Views.PagosSinRevisarPage"
+             Title="Pagos sin Revisar"
+             xmlns:converter="clr-namespace:Expagos.Converters"
+             >
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converter:ComisionConverter x:Key="comisionConverter" />
+            <converter:PorcentajeConverter x:Key="porcentajeConverter" />
+            <converter:MontoUSDConverter x:Key="montoUSDConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <ListView x:Name="ItemsListView"
+                ItemsSource="{Binding Pagos}"
+                VerticalOptions="FillAndExpand"
+                HasUnevenRows="true"
+                RefreshCommand="{Binding ListarPagosCommand}"
+                IsPullToRefreshEnabled="true"
+                IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                CachingStrategy="RecycleElement">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Margin="1" HorizontalOptions="Center" Text="{Binding Pago.IdClienteNavigation.Nombre}" FontAttributes="Bold" FontSize="16"/>
+
+                            <Label Grid.Row="1" Grid.Column="0" Text="Monto MX:" FontAttributes="Bold"/>
+                            <Label Grid.Row="1" Grid.Column="1" Text="{Binding Pago.Monto, StringFormat='{0:C}'}"/>
+
+                            <Label Grid.Row="2" Grid.Column="0" Text="Monto USD:" FontAttributes="Bold"/>
+                            <Label Grid.Row="2" Grid.Column="1" Text="{Binding Pago, StringFormat='{0:C}', Converter={StaticResource montoUSDConverter}}"/>
+
+                            <Label Grid.Row="3" Grid.Column="0" Text="% Comisión:" FontAttributes="Bold"/>
+                            <Label Grid.Row="3" Grid.Column="1" Text="{Binding Pago, StringFormat='{0:P}', Converter={StaticResource porcentajeConverter}}"/>
+
+                            <Label Grid.Row="4" Grid.Column="0" Text="Comisión a Pagar:" FontAttributes="Bold"/>
+                            <Label Grid.Row="4" Grid.Column="1" Text="{Binding Pago, StringFormat='{0:C}', Converter={StaticResource comisionConverter}}"/>
+
+                            <Grid Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Button Grid.Column="0" Margin="2,1,1,1" Text="Autorizar" BackgroundColor="#2196F3" TextColor="White" Command="{Binding AceptarCommand}" CommandParameter="{Binding Pago.Id}"/>
+                                <Button Grid.Column="1" Margin="1,1,2,1" Text="Rechazar" BackgroundColor="Red" TextColor="White" Command="{Binding RechazarCommand}" CommandParameter="{Binding Pago.Id}"/>
+                            </Grid>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

@@ -4,14 +4,14 @@
     "C:\\Chava\\DemosXamarin\\Examen\\Expagos\\Expagos\\Expagos.csproj": {}
   },
   "projects": {
-    "C:\\Chava\\DemosXamarin\\Examen\\Expagos\\Expagos\\Expagos.csproj": {
+    "C:\\Chava\\DemosXamarin\\Examen\\ExPagos.DTOs\\ExPagos.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Chava\\DemosXamarin\\Examen\\Expagos\\Expagos\\Expagos.csproj",
-        "projectName": "Expagos",
-        "projectPath": "C:\\Chava\\DemosXamarin\\Examen\\Expagos\\Expagos\\Expagos.csproj",
+        "projectUniqueName": "C:\\Chava\\DemosXamarin\\Examen\\ExPagos.DTOs\\ExPagos.DTOs.csproj",
+        "projectName": "ExPagos.DTOs",
+        "projectPath": "C:\\Chava\\DemosXamarin\\Examen\\ExPagos.DTOs\\ExPagos.DTOs.csproj",
         "packagesPath": "C:\\Users\\isc_s\\.nuget\\packages\\",
-        "outputPath": "C:\\Chava\\DemosXamarin\\Examen\\Expagos\\Expagos\\obj\\",
+        "outputPath": "C:\\Chava\\DemosXamarin\\Examen\\ExPagos.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -49,6 +49,69 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Chava\\DemosXamarin\\Examen\\Expagos\\Expagos\\Expagos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Chava\\DemosXamarin\\Examen\\Expagos\\Expagos\\Expagos.csproj",
+        "projectName": "Expagos",
+        "projectPath": "C:\\Chava\\DemosXamarin\\Examen\\Expagos\\Expagos\\Expagos.csproj",
+        "packagesPath": "C:\\Users\\isc_s\\.nuget\\packages\\",
+        "outputPath": "C:\\Chava\\DemosXamarin\\Examen\\Expagos\\Expagos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\isc_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\2018\\DLLs\\NuGetPackages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Chava\\DemosXamarin\\Examen\\ExPagos.DTOs\\ExPagos.DTOs.csproj": {
+                "projectPath": "C:\\Chava\\DemosXamarin\\Examen\\ExPagos.DTOs\\ExPagos.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

@@ -1,0 +1,11 @@
+C:\Chava\DemosXamarin\Examen\CreateDTOs\bin\Debug\netcoreapp2.2\CreateDTOs.deps.json
+C:\Chava\DemosXamarin\Examen\CreateDTOs\bin\Debug\netcoreapp2.2\CreateDTOs.runtimeconfig.json
+C:\Chava\DemosXamarin\Examen\CreateDTOs\bin\Debug\netcoreapp2.2\CreateDTOs.runtimeconfig.dev.json
+C:\Chava\DemosXamarin\Examen\CreateDTOs\bin\Debug\netcoreapp2.2\CreateDTOs.dll
+C:\Chava\DemosXamarin\Examen\CreateDTOs\bin\Debug\netcoreapp2.2\CreateDTOs.pdb
+C:\Chava\DemosXamarin\Examen\CreateDTOs\obj\Debug\netcoreapp2.2\CreateDTOs.csprojAssemblyReference.cache
+C:\Chava\DemosXamarin\Examen\CreateDTOs\obj\Debug\netcoreapp2.2\CreateDTOs.csproj.CoreCompileInputs.cache
+C:\Chava\DemosXamarin\Examen\CreateDTOs\obj\Debug\netcoreapp2.2\CreateDTOs.AssemblyInfoInputs.cache
+C:\Chava\DemosXamarin\Examen\CreateDTOs\obj\Debug\netcoreapp2.2\CreateDTOs.AssemblyInfo.cs
+C:\Chava\DemosXamarin\Examen\CreateDTOs\obj\Debug\netcoreapp2.2\CreateDTOs.dll
+C:\Chava\DemosXamarin\Examen\CreateDTOs\obj\Debug\netcoreapp2.2\CreateDTOs.pdb

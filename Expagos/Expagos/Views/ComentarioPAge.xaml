@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Expagos.Views.ComentarioPAge"
+             Title="Comentario de ">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Inserta un comentario"/>
+            <Editor Text="{Binding Comentario, Mode=TwoWay}"/>
+            <Button Text="Aceptar" Clicked="Aceptar_OnClicked" Margin="1" BackgroundColor="#2196F3" TextColor="White"/>
+            <Button Text="Cancelar" Clicked="Cancelar_OnClicked" Margin="1" BackgroundColor="Red" TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

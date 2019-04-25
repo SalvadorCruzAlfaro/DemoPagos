@@ -4,12 +4,15 @@ using System.Threading.Tasks;
 
 namespace Expagos.Services
 {
-    public interface IDataStore<T>
+    public interface IDataStore
     {
-        Task<bool> AddItemAsync(T item);
-        Task<bool> UpdateItemAsync(T item);
-        Task<bool> DeleteItemAsync(string id);
-        Task<T> GetItemAsync(string id);
-        Task<IEnumerable<T>> GetItemsAsync(bool forceRefresh = false);
+        Task<bool> AddItemAsync<T>(T item, string apiName, string actionName) where T : class, new();
+        Task<bool> UpdateItemAsync<T>(T item, string apiName, string actionName) where T : class, new();
+        Task<bool> DeleteItemAsync<T>(T item, string apiName, string actionName) where T : class, new();
+        Task<T> GetItemAsync<T>(int id, string apiName) where T : class, new();
+        Task<IEnumerable<T>> GetItemsAsync<T>(string apiName, string actionName, bool forceRefresh = false) where T : class, new();
+
+        Task<IEnumerable<T>> GetItemsAsync<T>(string apiName, string actionName, string parameterName,
+            dynamic valueParameter) where T : class, new();
     }
 }

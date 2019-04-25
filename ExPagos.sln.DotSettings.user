@@ -1,2 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:Int64 x:Key="/Default/CodeStyle/Naming/CSharpAutoNaming/AutoNamingCompletedVersion/@EntryValue">2</s:Int64></wpf:ResourceDictionary>
+	<s:Int64 x:Key="/Default/CodeStyle/Naming/CSharpAutoNaming/AutoNamingCompletedVersion/@EntryValue">2</s:Int64>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">EBF54F35F6B8D547BA753DA1CBB833FD</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=EBF54F35F6B8D547BA753DA1CBB833FD/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=EBF54F35F6B8D547BA753DA1CBB833FD/Name/@EntryValue">Expagos.Android</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=EBF54F35F6B8D547BA753DA1CBB833FD/ProjectGuid/@EntryValue">33317BDD1DCE144C9F385AF8E5E67A3C</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=EBF54F35F6B8D547BA753DA1CBB833FD/Type/@EntryValue">project</s:String></wpf:ResourceDictionary>
